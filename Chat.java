@@ -5,7 +5,7 @@ public class Chat {
 	}
 
 	public void sayHello() {
-		System.out.println("Hello");
+		System.out.println("Helloi World");
 	}
 
 	public void test() {}
